@@ -36,7 +36,7 @@ const twitterAPIKey = "tSgXWxZZquYd6dlpMzAot4SWV";
 const twitterSecretAPIKey = "btiJnjQ6QK7ws4KGvRXWMI0UkBVMmtjRA7bihmWH3TEWBXQbqe";
 const twitterAccessToken = "1283129018368364545-jCpHlt6ecwOIXtEjUaFtCRt7L6131U";
 const twitterSecretAccessToken = "vxswGuradzk1H8AUImkJ2cG5UOgepqGmnO2IJvxyCWOPl";
-const targetUrl = "https://dialogflow-twitter-4fvj2cfaza-uk.a.run.app";
+const targetUrl = " ";
 const projectId = "chile-canaldigital-speech";
 const environmentName = "prod";
 const twitterOAuth = {
@@ -129,6 +129,8 @@ function registerWebhook() {
         console.error('Failed to register webhook: ' + err);
         reject();
       } else {
+        // to check the webhook registration result from Cloud Run console
+        console.log("register webhook: ", JSON.stringify(resp.body))
         resolve();
       }
     });
