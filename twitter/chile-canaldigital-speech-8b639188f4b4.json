@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chile-canaldigital-speech",
+  "private_key_id": "8b639188f4b4b91d5afff4a40035d74b767a2a6a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEQi7gul+w91Q+\nroGeMpXrdJAaUkishru/Ie7XRULt2/ye+gHB60Pnvi4ZTjdJfvnWLqTTaHogVvfr\nA2qHznHRZRhAUZvpBv24wYlEuqoiTzcevAWq+8Zx9lT1V/moJWjiotO68lJMT3fo\ns5Vn4SiTwCqWIZbhE3a2Rrtuhvr/L9lON5lMhCYIR/4AivXaYwkUqZz5O6WCbbF2\nVT+Mx0uvLlA4OyZSseYW5YfRczSfa/7kTKTE2PvF68M5Zeqo7jPCIo4FSoDCwzXr\nQd/QqT1aysx0miP7g3TUc8Cjl+GrtuHIZqeEoKYgUbmkHzOSIeVdDmE58AJhCMWj\nd0WTzdpNAgMBAAECggEAFVe5L1k1RNJwx+xETkbkBNoFPceK/bAdRLjU93YhxCoz\nO7qmbEdAeDg3XSsjWgvD8aXa6N6owVGT3mvdru0ldYcP7xaw5NOMzgXF/sJp9Bc3\nQFFkMGb2+re2H4Q0szN2R4c7jU4C4yeVO6oj6ksTFZZFS1RVyx5Jv6LLiUaGjy+d\nGpVfuATCDJYnQyp2sZ/2B4j2Xdve8gEuSt3oL4aXsjDaW2N1g7QdInj+Z/TO24WX\nw/RkAsdDX0Sv0UBFPCWPxd/Mj66khe54uXfZrFuPON+0j/KOzoTS/cistoRkG8Yt\n7kzy2LMO7JCu2yl7TgNonmBqFeqt1NQbDR37WQTwQQKBgQDr0bgbcMw7YH61dtII\n4fB6Y122GxIAqy++oW0gMAd/JLT62OZcV6EzkpBynud+XtPR1//SbR65nEBTBZQB\nnMjXnhBlXZFJSBOcmzGQjIDhS6zFs7hM8+Tbu5Vgex3YGL4+ph7akQmk4Or5TxLi\nS8oW3OqGDGimmP3+7iMaf/w2/QKBgQDVDca1qdg98OArbngYd1QS7mVxvW5mvXJz\n2on5mFkYstP5qR3xai2nilOK6IHpmw9iHiWG1VQ9sIvTajw3HzoEQ/uoS/D072zf\nUo60xJkppek1bPgnqrVaUtG2yiXRrVNz9DxWP9nUQPXEwYN7f6Uw5HZ0eK5pjm3Y\n4C4KbSQZkQKBgQCPSU2xtrcRuQ8kmb8DUK2639eYCBjHOTz4esOA1E4pzhb9eH94\nSnKTkJGeY7lLSrkv/yvdIxqRM0TObUxCMo7CnLNftBvMSDRKau4R452Hx2CCfDIW\n5/b+IJuiFQzMOjSWgn+q1IfknBmKRKa3w89WVwNVUgLgf4ONvAquVmfczQKBgHSP\nj+ptnMfuk8ZPLtc72bxtvwRmPhNpjEeEBb6PMheIJt7NPnuIuqeRzzkNEZ5L3jOx\nCJjm96q0fxtQYNdLd0NEKleeDJsErozTrw2JDb6ybY90KaQSChv7eY7Gs8AuUpz6\nv1P0pOkyDQPzV0rmv+qq43+/UrSfXsurgqTjpz9xAoGBAOuVBkX943rUnF4X1KHT\nA0a2P0by1oZGbNysWPP87yOhrmE8XIq2dIpzxGc8/7g4Tz+3qeFprILqdrWxqTQ8\nh5rUx7xzXQd4A0B6jcsgm8mfbQHGAc6wYMUetMOU2vzJAeg7ngixDGmjtCLQpgmQ\nqvl9zckP5Xb1Tn72pqMEf2Yc\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-nrruqt@chile-canaldigital-speech.iam.gserviceaccount.com",
+  "client_id": "116876561228687194871",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-nrruqt%40chile-canaldigital-speech.iam.gserviceaccount.com"
+}
